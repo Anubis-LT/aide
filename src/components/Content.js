@@ -4,10 +4,10 @@ const Content = () => {
       <div className="container content">
          <div>
             <a href="https://fr.wikipedia.org/wiki/RTFM_(expression)">
-               <img src={images} />
+               <img src={images} alt="Clic ici" />
             </a>
          </div>
-         <div> courage ... ce n'est que le début ;-)</div>
+         <div> Courage ... ce n'est que le début ;-)</div>
       </div>
    );
 };
