@@ -4,6 +4,8 @@
 }
 * {
    font-family: "Roboto", sans-serif;
+   background-color: #5c48d3;
+   color: #fff;
 }
 .container {
    width: 80%;
